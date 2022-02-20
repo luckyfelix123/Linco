@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "489020426561",
+    "project_id": "linco-4edcf",
+    "storage_bucket": "linco-4edcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489020426561:android:db7a7039d380dfab0839c0",
+        "android_client_info": {
+          "package_name": "l.Linco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489020426561-n3iok80b0t86jsi003nbg91mp8jm4f8c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "l.Linco",
+            "certificate_hash": "e9e29606d48bab69b162f296b62644c03f23c10f"
+          }
+        },
+        {
+          "client_id": "489020426561-p6upp6g5s79uvjv5kjagvi9ngc2ptb76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB692ALwmfwjUFjJYqQJfMT7gHUwL9Ro_M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489020426561-p6upp6g5s79uvjv5kjagvi9ngc2ptb76.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "489020426561-r15h8rfe2top115l7c98c6u4sbfv800o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.linco"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
